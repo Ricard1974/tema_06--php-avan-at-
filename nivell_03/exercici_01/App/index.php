@@ -14,3 +14,7 @@ echo $recurso->getUrl();
 echo $recurso->getTipo(); 
 // print_r($recurso);
 var_dump($recurso);
+
+
+
+?>

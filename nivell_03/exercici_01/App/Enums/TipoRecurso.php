@@ -11,3 +11,5 @@ enum TipoRecurso: string
     case ARTICULOWEB = 'Dirección web';
     case VIDEO = 'Vídeo';
 }
+
+?>

@@ -77,3 +77,4 @@ class Recurso
         $this->tipo = $tipo;
     }
 }
+?>
